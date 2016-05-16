@@ -1,6 +1,6 @@
 title: Tech.001.Intel RealSense R200 Testing
 date: 2015-10-09 22:34:07
-tags: Hardware, RealSense
+tags: RealSense
 ---
 ## 1. 物理属性
 ![image](http://7xlos6.com1.z0.glb.clouddn.com/151009.1.RealSense.jpg)
